@@ -1,0 +1,14 @@
+.intro {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 100px;
+    color: aquamarine;
+    padding-left: 320px;
+}
+
+.descricao {
+    color: blue;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 200px;
+}
