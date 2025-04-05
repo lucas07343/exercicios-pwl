@@ -30,10 +30,14 @@ header {
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 5px 15px hsla(0, 0%, 0%, 0.952);
+    transform: scale(1) translateY(20px);
+    transition: 0.4s ease;
+    margin: 40px;
+
 }
 
 .card:hover {
-    transform: 100%;
+    transform: scale(1.1);
     box-shadow: 0 8px 20px rgb(0, 0, 0);
 
 }
